@@ -4,7 +4,7 @@ DP is a technique in computer programming that helps to efficiently solve a clas
 
 ## What is Dynamic Programming
 
-Dynamic Programming like the [divide-and-conquer](https://github.com/kaka-lin/Notes/tree/master/DSA/Divide%20and%20Conquer) method, solves problems by `combining the solutions to subproblems`
+Dynamic Programming like the [divide-and-conquer](./../Divide%20and%20Conquer/) method, solves problems by `combining the solutions to subproblems`
 
 - 用空間換取時間
 - 讓走過得留下痕跡

@@ -52,9 +52,9 @@ Solve sub-problwm recursively.
 
 ## Exmaples
 
-- [Tower of Hanoi](https://github.com/kaka-lin/Notes/tree/master/DSA/Recursion/Divide%20and%20Conquer/tower_of_hanoi)
-- [Merge Sort](https://github.com/kaka-lin/Notes/tree/master/DSA/Recursion/Divide%20and%20Conquer/merge_sort)
-- [Quick Sort](https://github.com/kaka-lin/Notes/tree/master/DSA/Recursion/Divide%20and%20Conquer/quick_sort)
+- [Tower of Hanoi](./tower_of_hanoi/)
+- [Merge Sort](./merge_sort/)
+- [Quick Sort](./quick_sort/)
 
 ## Reference
 

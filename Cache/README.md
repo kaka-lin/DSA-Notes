@@ -1,3 +1,3 @@
 # Cache (快取)
 
-- [Least Recently Used Cache (LRU Cache)]()
+- [Least Recently Used Cache (LRU Cache)](./LRU%20Cache/)

@@ -29,6 +29,6 @@ My Learning notes of `Data Structure and Algorithms` and `Algorithm Design and A
 
 ## Courses
 
-- [Data Structures and Algorithms, NTU Hsuan-Tien Lin](https://github.com/kaka-lin/Notes/tree/master/DSA/DSA_NTU_LinHT)
+- [Data Structures and Algorithms, NTU Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/course/dsa20spring/)
 - [Leetcode - Learn](https://leetcode.com/explore/learn/)
 - [Algorithm Design and Analysis, NTU Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/f107-ada/)
