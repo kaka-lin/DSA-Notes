@@ -52,14 +52,14 @@ Solve sub-problem recursively.
 
 ## Examples
 
-- [Bitonic Champion](./bitonic_champion/)
-- [Closest Pair of Points](./closest_pair_of_points/)
-- [Matrix Multiply](./matrix_multiply/)
-- [Maximum Subarray](./maximum_subarray/)
-- [Merge Sort](./merge_sort/)
-- [Quick Sort](./quick_sort/)
-- [Selection Problem](./selection_problem/)
-- [Tower of Hanoi](./tower_of_hanoi/)
+- [Bitonic Champion](../../examples/divide_and_conquer/bitonic_champion/)
+- [Closest Pair of Points](../../examples/divide_and_conquer/closest_pair_of_points/)
+- [Matrix Multiply](../../examples/divide_and_conquer/matrix_multiply/)
+- [Maximum Subarray](../../examples/divide_and_conquer/maximum_subarray/)
+- [Merge Sort](../sort/merge_sort/)
+- [Quick Sort](../sort/quick_sort/)
+- [Selection Problem](../../examples/divide_and_conquer/selection_problem/)
+- [Tower of Hanoi](../../examples/divide_and_conquer/tower_of_hanoi/)
 
 ## Reference
 
