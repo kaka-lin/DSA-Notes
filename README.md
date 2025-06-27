@@ -18,14 +18,19 @@ My Learning notes of `Data Structure and Algorithms` and `Algorithm Design and A
 
 - [Divide-and-Conquer](./algorithms/divide_and_conquer/)
 - [Dynamic Programming](./algorithms/dynamic_programming)
+- Graph Algorithms
+  - [Breadth-First Search (BFS)](./algorithms/graph_algorithms/breadth_first_search)
+  - [Depth-First Search (DFS)](./algorithms/graph_algorithms/depth_first_search)
+  - [Topological Sort](./algorithms/graph_algorithms/directed_acyclic_graph/topological_sort)
 - [Recursion](./algorithms/recursion)
 - [Sort](./algorithms/sort)
 
-### Graph Algorithms
+## Examples
 
-- [Breadth-First Search (BFS)](./algorithms/graph_algorithms/breadth_first_search)
-- [Depth-First Search (DFS)](./algorithms/graph_algorithms/depth_first_search)
-- [Topological Sort](./algorithms/graph_algorithms/directed_acyclic_graph/topological_sort)
+- [Divide and Conquer](./examples/divide_and_conquer/)
+- [Dynamic Programming](./examples/dynamic_programming/)
+- [Recursion](./examples/recursion/)
+- [String](./examples/string/)
 
 ## Courses
 
