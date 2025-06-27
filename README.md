@@ -4,28 +4,28 @@ My Learning notes of `Data Structure and Algorithms` and `Algorithm Design and A
 
 ## Data Structures
 
-- [Array](./Array/README.md)
-- [Cache](./Cache)
-- [Graph](./Graph)
-- [Hash Table](./Hash%20Table)
-- [Linked List](./Linked%20List)
-- [Queue](./Queue)
-- [Stack](./Stack)
-- [String](./String)
-- [Tree](./Tree)
+- [Array](./data_structures/array/)
+- [Cache](./data_structures/cache)
+- [Graph](./data_structures/graph)
+- [Hash Table](./data_structures/hash_table)
+- [Linked List](./data_structures/linked_list)
+- [Queue](./data_structures/queue)
+- [Stack](./data_structures/stack)
+- [String](./data_structures/string)
+- [Tree](./data_structures/tree)
 
 ## Algorithms
 
-- [Divide-and-Conquer](./Divide%20and%20Conquer/README.md)
-- [Dynamic Programming](./Dynamic%20Programming)
-- [Recursion](./Recursion)
-- [Sort](./Sort)
+- [Divide-and-Conquer](./algorithms/divide_and_conquer/)
+- [Dynamic Programming](./algorithms/dynamic_programming)
+- [Recursion](./algorithms/recursion)
+- [Sort](./algorithms/sort)
 
 ### Graph Algorithms
 
-- [Breadth-First Search (BFS)](./Graph/Breadth-First%20Search)
-- [Depth-First Search (DFS)](./Graph/Depth-First%20Search)
-- [Topological Sort](./Graph/Directed%20Acyclic%20Graph/Topological%20Sort)
+- [Breadth-First Search (BFS)](./algorithms/graph_algorithms/breadth_first_search)
+- [Depth-First Search (DFS)](./algorithms/graph_algorithms/depth_first_search)
+- [Topological Sort](./algorithms/graph_algorithms/directed_acyclic_graph/topological_sort)
 
 ## Courses
 
