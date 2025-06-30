@@ -29,6 +29,7 @@ My Learning notes of `Data Structure and Algorithms` and `Algorithm Design and A
 
 - [Divide and Conquer](./examples/divide_and_conquer/)
 - [Dynamic Programming](./examples/dynamic_programming/)
+- [Graph Algorithms](./examples/graph_algorithms/)
 - [Recursion](./examples/recursion/)
 - [String](./examples/string/)
 
